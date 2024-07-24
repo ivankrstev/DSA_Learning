@@ -1,6 +1,6 @@
-package test;
+package test.algorithms;
 
-import main.HeapSort;
+import main.algorithms.HeapSort;
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;

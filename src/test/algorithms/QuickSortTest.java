@@ -1,6 +1,6 @@
-package test;
+package test.algorithms;
 
-import main.QuickSort;
+import main.algorithms.QuickSort;
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;

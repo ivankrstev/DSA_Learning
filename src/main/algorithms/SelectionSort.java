@@ -1,4 +1,4 @@
-package main;
+package main.algorithms;
 
 public class SelectionSort {
     public void sort(int[] arr) {
